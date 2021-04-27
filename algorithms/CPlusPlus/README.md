@@ -5,7 +5,8 @@
 2. [Dutch Flag Algorithm](Arrays/dutch-flag-algo.cpp)
 3. [Left Rotation](Arrays/left-rotation.cpp)
 4. [Max Subarray Sum](Arrays/max-subarray-sum.cpp)
-5. [Shift Negatives](Arrays/shift-negatives.cpp)
+5. [Moore_voting](Arrays/boyer-more.cpp)
+6. [Shift Negatives](Arrays/shift-negatives.cpp)
 
 ## Graphs
 1. [Bellman Ford Algorithm](Graphs/bellmam-ford.cpp)
